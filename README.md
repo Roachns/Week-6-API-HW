@@ -2,7 +2,7 @@
 
 In this example, I've created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, I've utilized a [simple Python library](https://pypi.org/project/citipy/), the [OpenWeatherMap API](https://openweathermap.org/api),and a little common sense to create a representative model of weather across world cities.
 
-Your objective is to build a series of scatter plots to showcase the following relationships:
+My objective was to build a series of scatter plots that showcase the following relationships:
 - Temperature (F) vs. Latitude
 - Humidity (%) vs. Latitude
 - Cloudiness (%) vs. Latitude
